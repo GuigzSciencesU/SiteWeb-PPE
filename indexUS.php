@@ -4,7 +4,6 @@
 
       <title>U'Sports</title>
 
-
 <!-- Import Materialize CSS / Icones -->
 <head>
 
@@ -36,6 +35,6 @@
       <script type="text/javascript" src="js/materialize.min.js"></script>
       <script type="text/javascript" src="js/custom_us.js"></script>
 
-</body>
+
 
 </html>
